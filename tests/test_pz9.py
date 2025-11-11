@@ -1,5 +1,5 @@
 import pytest
-from pz9Folder.sources.pz9 import Calculator
+from Python_workflows_automatically_tests.sources.pz9 import Calculator
 
 
 class TestIntegration:
